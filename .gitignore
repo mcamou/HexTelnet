@@ -1,0 +1,36 @@
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Vim
+*.swp
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# IntelliJ
+.idea
+*.iml
+
+# Project
+project/target
+project/project/target
+out
+target/
+.classpath
+.project
+.settings/*
+log
+tmp
+
+
